@@ -29,5 +29,6 @@ d는 2이므로 *2를 해줄 때 왼쪽으로 Shift 1을 해줌으로써 구할 
 https://blog.naver.com/ljs1027s/222175907450
 
 DOSBox 설치와 Debug는 아래 링크에서 볼 수 있다.
+
 https://blog.naver.com/ljs1027s/222170114799
 https://blog.naver.com/ljs1027s/222170139984
