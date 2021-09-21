@@ -1,0 +1,12 @@
+#include <stdio.h>
+extern void tree();
+
+main()
+{
+	int n;
+
+	printf("tree depth : ");
+	scanf("%d", &n);
+	tree(n);
+	printf("\n2020-12-14 Jaeseon Lee");
+}
