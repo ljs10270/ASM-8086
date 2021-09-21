@@ -25,4 +25,9 @@ d는 2이므로 *2를 해줄 때 왼쪽으로 Shift 1을 해줌으로써 구할 
 
 마지막으로 Push 해두었던 C에서 사용하던 DX레지스터와 BX레지스터를 pop 하여 원래 값으로 되돌리고 ret(retrun)하여 C 복귀주소를 pop하여 C로 되돌린다.
 ***
+자세한 내용은 아래 링크에서 볼 수 있다.
 https://blog.naver.com/ljs1027s/222175907450
+
+DOSBox 설치와 Debug는 아래 링크에서 볼 수 있다.
+https://blog.naver.com/ljs1027s/222170114799
+https://blog.naver.com/ljs1027s/222170139984
